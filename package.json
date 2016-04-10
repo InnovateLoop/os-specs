@@ -1,6 +1,6 @@
 {
   "name": "os-specs",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Returns OS Specs",
   "main": "os_specs.js",
   "scripts": {
