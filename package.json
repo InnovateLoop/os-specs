@@ -1,0 +1,24 @@
+{
+  "name": "os-specs",
+  "version": "0.0.1",
+  "description": "Returns OS Specs",
+  "main": "os_specs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnovateLoop/os-specs.git"
+  },
+  "keywords": [
+    "os",
+    "specs",
+    "json"
+  ],
+  "author": "Roshan Ravi <roshan.ravi@innovateloop.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InnovateLoop/os-specs/issues"
+  },
+  "homepage": "https://github.com/InnovateLoop/os-specs#readme"
+}

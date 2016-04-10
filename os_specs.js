@@ -1,6 +1,6 @@
 var os = require(‘os’);
 
-Module.exports = function() {
+module.exports = function() {
     return {
         EOL: os.EOL,
         arch: os.arch(),
